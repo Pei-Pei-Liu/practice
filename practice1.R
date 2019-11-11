@@ -98,3 +98,5 @@ ggsave(plot = p1, "gapminder.png", dpi = 600,
 # Use ggplotly to make it interactive
 ggplotly(p1)
 # it will "play" and move by year along the sliding bar
+
+#Pretending to add new code
